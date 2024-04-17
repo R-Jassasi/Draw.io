@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T21:42:30.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DBkeap9R16oVoUf6TjVm" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T21:45:45.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4PcY6-qu_TYmr6n1gA6B" version="24.0.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1674" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2232" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="1352" value="Security &amp;amp; Digital Footprint" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1790" y="1160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1357" value="A VR simulation to allow players to experience&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;what AI is doing to jobs and how to cope and prepare for it&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;instead of false fear&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;of jobs being stolen&lt;/span&gt;" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="1357" value="A simulation or a method to educate the user better on how AI is integrated into jobs and what they need to do to cope with it instead of false fear that their jobs are stolen." style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1860" y="226.5" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -129,16 +129,16 @@
             <mxPoint x="-121.5" y="56.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1390" value="What the prototype focus on?" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1390" value="What the prototype focus on?" style="rounded=1;fillColor=#F53333;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1410" y="280" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1391" value="Specify the experience" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1391" value="Specify the experience" style="rounded=1;fillColor=#F53333;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1500" y="146.5" width="150" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="1392" value="What kind of jobs?" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1392" value="What kind of jobs?" style="rounded=1;fillColor=#F53333;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1660" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1393" value="Like Rec Room and Roblox" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1393" value="VR - Rec Room and Roblox" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1820" y="90" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;" parent="1" source="1351" target="1357" edge="1">
