@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T22:02:20.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WTnxrCGvOMjPf6vJxIpV" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T21:54:28.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GSPpGUsHCnnVk2yXVaM4" version="24.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2575" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,22 +143,59 @@
             <mxPoint x="732.25" y="1233.9077257272384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1558" value="Is it really useful?" style="rounded=1;fillColor=#1265E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1558" value="Is it really useful?" style="rounded=1;fillColor=#1265E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="587" y="530" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1559" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;shadow=0;exitX=0.811;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="OUW_Qcl95m7Y_e_G3sS8-1558" parent="1" source="1350">
+        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1559" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;shadow=0;exitX=0.811;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1350" target="OUW_Qcl95m7Y_e_G3sS8-1558" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="500" y="503" as="sourcePoint" />
             <mxPoint x="-264.5" y="222.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1560" value="Is it really interesting?" style="rounded=1;fillColor=#1265E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1560" value="Is it really interesting?" style="rounded=1;fillColor=#1265E2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="510" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1561" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;shadow=0;" edge="1" target="OUW_Qcl95m7Y_e_G3sS8-1560" parent="1" source="1350">
+        <mxCell id="OUW_Qcl95m7Y_e_G3sS8-1561" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;shadow=0;" parent="1" source="1350" target="OUW_Qcl95m7Y_e_G3sS8-1560" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="591" y="638" as="sourcePoint" />
             <mxPoint x="-254.5" y="232.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trip planner with AI" id="0NB-BDC3hGzu6wAWVmnP-1535">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#4D9900;strokeColor=none;" vertex="1" parent="1">
+            <mxGeometry x="1060" y="283.25" width="120" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1536" style="endArrow=none;strokeWidth=6;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" edge="1" parent="1" target="0NB-BDC3hGzu6wAWVmnP-1535" source="1515">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1439.9956794493469" y="505.2931310127783" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1537" value="There is one from Google Maps but the UI isn’t very friendly in my opinion, could also benefit from having automated, scheduled and repeated plans saved in the account. Helpful for busy individuals who rely on using more than one transportation method. Could integrate other apps like bus apps and Uber" style="rounded=1;fillColor=#006B00;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1538" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1537">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="159.06" y="168.25" as="sourcePoint" />
+            <mxPoint x="259.06" y="68.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1539" value="Is it really useful?" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="190" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;exitX=0.811;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1539">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="920.56" y="174.75" as="sourcePoint" />
+            <mxPoint x="156.06" y="-105.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1541" value="Is it really interesting?" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="200" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1541">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1011.56" y="309.75" as="sourcePoint" />
+            <mxPoint x="166.06" y="-95.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
