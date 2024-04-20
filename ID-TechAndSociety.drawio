@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T21:55:52.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5ceeDxuYaW1SX0kRCoXO" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T21:56:18.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6TNFNbBDw_nFRUeDSfvs" version="24.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1674" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         </mxCell>
         <object label="AI Overreliance" id="0NB-BDC3hGzu6wAWVmnP-1535">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#4D9900;strokeColor=none;" vertex="1" parent="1">
-            <mxGeometry x="1060" y="283.25" width="120" height="120" as="geometry" />
+            <mxGeometry x="1100" y="250" width="120" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1536" style="endArrow=none;strokeWidth=6;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" edge="1" parent="1" target="0NB-BDC3hGzu6wAWVmnP-1535" source="1515">
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1537" value="People trust the accuracy of the information AI generates without bothering to double check." style="rounded=1;fillColor=#006B00;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="720" y="380" width="320" height="110" as="geometry" />
+          <mxGeometry x="849" y="386.5" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1538" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1537">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -181,9 +181,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1539" value="What solutions possible?" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="190" width="133" height="50" as="geometry" />
+          <mxGeometry x="920" y="280" width="133" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;exitX=0.811;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1539">
+        <mxCell id="0NB-BDC3hGzu6wAWVmnP-1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#00FF00;" edge="1" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1539">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="920.56" y="174.75" as="sourcePoint" />
             <mxPoint x="156.06" y="-105.75" as="targetPoint" />
