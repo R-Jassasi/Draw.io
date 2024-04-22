@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:37:56.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zRW7WHRGF6ISLr9RiQDK" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:39:51.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7spWKWhgSBLX_0tjed_M" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1762" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -117,18 +117,18 @@
           <mxGeometry x="497.5" y="1143.5" width="161.5" height="161.5" as="geometry" />
         </mxCell>
         <mxCell id="1520" value="Cons" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1340" width="100" height="50" as="geometry" />
+          <mxGeometry x="570.25" y="1410.12" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1521" value="Pros" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="397.5" y="1360" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="1199.25" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1523" value="&amp;nbsp;An AI monitoring system that learn your procrastination habits by observing your working routine and repetitive patterns and suggesting actions (not tips) to correct them.&amp;nbsp;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="729.25" y="1200" width="353.75" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1532" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;shadow=0;" parent="1" source="1516" target="1520" edge="1">
+        <mxCell id="1532" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;shadow=0;exitX=0.378;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1516" target="1520" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
-            <mxPoint x="-1312.5" y="260" as="sourcePoint" />
-            <mxPoint x="-1212.5" y="160" as="targetPoint" />
+            <mxPoint x="702.448552675316" y="1349.9974268552278" as="sourcePoint" />
+            <mxPoint x="-1032.25" y="227.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1533" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;shadow=0;" parent="1" source="1516" target="1521" edge="1">
@@ -237,11 +237,11 @@
             <mxPoint x="1390" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1554" value="Privacy concerns (camera - data - online)" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="538.75" y="1480" width="260" height="50" as="geometry" />
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1554" value="Privacy concerns (camera - data - online)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1537.62" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1555" value="The idea of being observed by computers (AI)" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1420" width="258.75" height="50" as="geometry" />
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1555" value="The idea of being observed by computers (AI)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1477.62" width="258.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1556" value="How is works?" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="1125" width="100" height="50" as="geometry" />
@@ -257,6 +257,9 @@
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1559" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Over time -and per-user permission- the app will study and learn the habits and analyse what needs to be fixed and improved to help boost productivity. Also, learning and settings routines and custom session settings based on the learnt data to further speed up and customise the user experience.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="930" y="1440" width="360" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1560" value="Helping individuals with self discipline issues&amp;nbsp;" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1199.25" width="258.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
