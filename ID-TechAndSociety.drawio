@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:27:38.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4r1ystrhHgQDJ0xdJTXN" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:29:13.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WOQT8gti6SiUMK743PD3" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2232" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1390" value="What the prototype focus on?" style="rounded=1;fillColor=#F56531;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="430" width="180" height="50" as="geometry" />
+          <mxGeometry x="1420" y="471.5" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1391" value="Specify the experience" style="rounded=1;fillColor=#F56531;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1710" y="626.5" width="150" height="43.5" as="geometry" />
@@ -226,6 +226,15 @@
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1672" y="411.5" as="sourcePoint" />
             <mxPoint x="1610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1552" value="&lt;div&gt;A demo of the level that shows how the main interaction will look like&lt;/div&gt;" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="356.5" width="200" height="93.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.56;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1390" target="-C7UK-4KsUB3AKnU20ic-1552">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1422" y="421" as="sourcePoint" />
+            <mxPoint x="1390" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
