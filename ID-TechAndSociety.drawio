@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:19:45.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Nfph6-y8mCXbz6aUI4c9" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:20:11.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3pJ_HwXSKI_frKBCugeZ" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2232" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1543" value="A VR game experience that allows the player to explore a workplace environment implementing AI, and how that changes the roles available and create and replace some roles and how that affacts the workers. Watching an in depth process of integeration could help the player better understand how AI is a powerful tool that if used properly could improve jobs rather than steal them." style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;" vertex="1" parent="1">
           <mxGeometry x="1847" y="510" width="356" height="143.5" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1544" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1351" target="-C7UK-4KsUB3AKnU20ic-1543">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1544" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1357" target="-C7UK-4KsUB3AKnU20ic-1543">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1670" y="670" as="sourcePoint" />
             <mxPoint x="1760" y="658" as="targetPoint" />
