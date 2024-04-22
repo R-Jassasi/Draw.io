@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:45:15.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fPgEGsqG_BqWQmIEXNQn" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:47:33.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JZ_U3pq_rBLe35xQacPt" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2625" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1537" value="People trust the accuracy of the information AI generates without bothering to double check." style="rounded=1;fillColor=#006B00;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="680" y="361.5" width="320" height="110" as="geometry" />
+          <mxGeometry x="620" y="340" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1538" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1537" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1539" value="What solutions possible?" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="751" y="255" width="133" height="50" as="geometry" />
+          <mxGeometry x="680" y="210" width="133" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#00FF00;" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1539" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1541" value="What problems does it cause?" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="781" y="175" width="133" height="50" as="geometry" />
+          <mxGeometry x="760" y="120" width="133" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0NB-BDC3hGzu6wAWVmnP-1542" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;" parent="1" source="0NB-BDC3hGzu6wAWVmnP-1535" target="0NB-BDC3hGzu6wAWVmnP-1541" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
@@ -263,6 +263,9 @@
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1561" value="An assistant that helps you manage your schedule and workflow" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="1257" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1562" value="A VR simulation game" style="rounded=1;fillColor=#C9B84F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1679" y="960" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
