@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:40:44.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7UCrAXrn9_g37A25Jnez" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:42:42.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Xxsmo-6VHDt-8Qqb7TfX" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1339" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -260,6 +260,9 @@
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1560" value="Helping individuals with self discipline issues&amp;nbsp;" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="1199.25" width="258.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1561" value="An assistant that helps you manage your schedule and workflow" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1257" width="370" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
