@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T22:39:51.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7spWKWhgSBLX_0tjed_M" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T22:40:44.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7UCrAXrn9_g37A25Jnez" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1762" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1339" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,10 +238,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1554" value="Privacy concerns (camera - data - online)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1537.62" width="260" height="50" as="geometry" />
+          <mxGeometry x="410.25" y="1530" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1555" value="The idea of being observed by computers (AI)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1477.62" width="258.75" height="50" as="geometry" />
+          <mxGeometry x="410.25" y="1470" width="258.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1556" value="How is works?" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="810" y="1125" width="100" height="50" as="geometry" />
@@ -253,10 +253,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1558" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The app will use the camera and screen capturing to monitor the user&#39;s activity and habits during the session that the user sets. The user will specify what tasks they want to achieve, when, and how they want to achieve them, and the AI system will analyze and create the best recommendations for achieving those goals. It will send notifications and tips, and possibly control other apps on the device per user permission to optimize session productivity.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1305" width="360" height="125" as="geometry" />
+          <mxGeometry x="794" y="1307" width="360" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1559" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Over time -and per-user permission- the app will study and learn the habits and analyse what needs to be fixed and improved to help boost productivity. Also, learning and settings routines and custom session settings based on the learnt data to further speed up and customise the user experience.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1440" width="360" height="125" as="geometry" />
+          <mxGeometry x="930" y="1440.12" width="360" height="125" as="geometry" />
         </mxCell>
         <mxCell id="-C7UK-4KsUB3AKnU20ic-1560" value="Helping individuals with self discipline issues&amp;nbsp;" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="1199.25" width="258.75" height="50" as="geometry" />
