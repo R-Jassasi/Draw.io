@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T17:02:01.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6Tcdnz86WOoRsEFXJHeq" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T23:46:37.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NCdefkp2ijXy9yL29I0j" version="24.2.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="4889" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,86 +198,113 @@
             <mxPoint x="-2.9399999999999977" y="-120.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1535" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Include at least 5 solutions for each, detailed enough to start working on :)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF70A5;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1535" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Include at least 5 solutions for each, detailed enough to start working on :)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF70A5;" parent="1" vertex="1">
           <mxGeometry x="-330" y="46.5" width="340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1543" value="A VR game experience that allows the player to explore a workplace environment implementing AI, and how that changes the roles available and create and replace some roles and how that affacts the workers. Watching an in depth process of integeration could help the player better understand how AI is a powerful tool that if used properly could improve jobs rather than steal them." style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1543" value="A VR game experience that allows the player to explore a workplace environment implementing AI, and how that changes the roles available and create and replace some roles and how that affacts the workers. Watching an in depth process of integeration could help the player better understand how AI is a powerful tool that if used properly could improve jobs rather than steal them." style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;" parent="1" vertex="1">
           <mxGeometry x="1930" y="538.25" width="356" height="143.5" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1544" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;" edge="1" parent="1" source="1391" target="-C7UK-4KsUB3AKnU20ic-1543">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1544" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;" parent="1" source="1391" target="-C7UK-4KsUB3AKnU20ic-1543" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1670" y="670" as="sourcePoint" />
             <mxPoint x="1760" y="658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1546" value="a multiplier game where players get to choose whether they want to be a human or an &quot;AI assistant or implementation&quot;&amp;nbsp; in a workplace environment. I want it to be an educational (without compromising the fun and gameplay) sort of competitive, like identity V sort of style.&amp;nbsp; So teams work together to finish tasks to win against the other team, while also giving them tasks that are realistic and showing how AI and humans works together, showing the pros and cons" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1546" value="a multiplier game where players get to choose whether they want to be a human or an &quot;AI assistant or implementation&quot;&amp;nbsp; in a workplace environment. I want it to be an educational (without compromising the fun and gameplay) sort of competitive, like identity V sort of style.&amp;nbsp; So teams work together to finish tasks to win against the other team, while also giving them tasks that are realistic and showing how AI and humans works together, showing the pros and cons" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;" parent="1" vertex="1">
           <mxGeometry x="1930" y="700" width="356" height="143.5" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1548" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="1391" target="-C7UK-4KsUB3AKnU20ic-1546">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1548" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="1391" target="-C7UK-4KsUB3AKnU20ic-1546" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1819" y="660" as="sourcePoint" />
             <mxPoint x="1857" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1549" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;According to ChatGPT (double check):&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Customer Service Representatives&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Data Analysts and Scientists&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Drivers and Transportation Workers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Retail Workers&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Manufacturing Workers&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;align=left;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1549" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;According to ChatGPT (double check):&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Customer Service Representatives&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Data Analysts and Scientists&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Drivers and Transportation Workers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Retail Workers&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Manufacturing Workers&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;align=left;" parent="1" vertex="1">
           <mxGeometry x="1530" y="220" width="250" height="143.5" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.394;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1392" target="-C7UK-4KsUB3AKnU20ic-1549">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1551" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.394;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1392" target="-C7UK-4KsUB3AKnU20ic-1549" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1672" y="411.5" as="sourcePoint" />
             <mxPoint x="1610" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1552" value="&lt;div&gt;A demo of the level that shows how the main interaction will look like&lt;/div&gt;" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;align=center;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1552" value="&lt;div&gt;A demo of the level that shows how the main interaction will look like&lt;/div&gt;" style="rounded=1;fillColor=#F5440F;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;;align=center;" parent="1" vertex="1">
           <mxGeometry x="1320" y="356.5" width="200" height="93.5" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.56;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1390" target="-C7UK-4KsUB3AKnU20ic-1552">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1553" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;shadow=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.56;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1390" target="-C7UK-4KsUB3AKnU20ic-1552" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="1422" y="421" as="sourcePoint" />
             <mxPoint x="1390" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1554" value="Privacy concerns (camera - data - online)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1554" value="Privacy concerns (camera - data - online)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="410.25" y="1530" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1555" value="The idea of being observed by computers (AI)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1555" value="The idea of being observed by computers (AI)" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="410.25" y="1470" width="258.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1556" value="How is works?" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1556" value="How is works?" style="rounded=1;fillColor=#583DC5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="810" y="1125" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;shadow=0;exitX=0.026;exitY=0.664;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="1516" target="-C7UK-4KsUB3AKnU20ic-1556">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;shadow=0;exitX=0.026;exitY=0.664;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="1516" target="-C7UK-4KsUB3AKnU20ic-1556" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
             <mxPoint x="489" y="1130" as="sourcePoint" />
             <mxPoint x="430" y="1203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1558" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The app will use the camera and screen capturing to monitor the user&#39;s activity and habits during the session that the user sets. The user will specify what tasks they want to achieve, when, and how they want to achieve them, and the AI system will analyze and create the best recommendations for achieving those goals. It will send notifications and tips, and possibly control other apps on the device per user permission to optimize session productivity.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1558" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The app will use the camera and screen capturing to monitor the user&#39;s activity and habits during the session that the user sets. The user will specify what tasks they want to achieve, when, and how they want to achieve them, and the AI system will analyze and create the best recommendations for achieving those goals. It will send notifications and tips, and possibly control other apps on the device per user permission to optimize session productivity.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="794" y="1307" width="360" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1559" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Over time -and per-user permission- the app will study and learn the habits and analyse what needs to be fixed and improved to help boost productivity. Also, learning and settings routines and custom session settings based on the learnt data to further speed up and customise the user experience.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1559" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Over time -and per-user permission- the app will study and learn the habits and analyse what needs to be fixed and improved to help boost productivity. Also, learning and settings routines and custom session settings based on the learnt data to further speed up and customise the user experience.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="930" y="1440.12" width="360" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1560" value="Helping individuals with self discipline issues&amp;nbsp;" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1560" value="Helping individuals with self discipline issues&amp;nbsp;" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="80" y="1199.25" width="258.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1561" value="An assistant that helps you manage your schedule and workflow" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1561" value="An assistant that helps you manage your schedule and workflow" style="rounded=1;fillColor=#C8C0F3;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="80" y="1257" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1562" value="An abstract style that shows how the digital print stored over time can be used to harm the user - kind of like making the player live as the digital-print and see its journey through the internet." style="rounded=1;fillColor=#E8DB27;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1562" value="An abstract style that shows how the digital print stored over time can be used to harm the user - kind of like making the player live as the digital-print and see its journey through the internet." style="rounded=1;fillColor=#E8DB27;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1695" y="980" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-C7UK-4KsUB3AKnU20ic-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#FFE047;html=1;shadow=0;fillColor=#FFF129;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1417" target="-C7UK-4KsUB3AKnU20ic-1562">
+        <mxCell id="-C7UK-4KsUB3AKnU20ic-1563" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#FFE047;html=1;shadow=0;fillColor=#FFF129;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1417" target="-C7UK-4KsUB3AKnU20ic-1562" edge="1">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
             <mxPoint x="1696" y="1066.5" as="sourcePoint" />
             <mxPoint x="1779" y="1023.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="Something to help with mental health and reassurance" id="-C7UK-4KsUB3AKnU20ic-1564">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FF3399;strokeColor=none;" vertex="1" parent="1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#FF3399;strokeColor=none;" parent="1" vertex="1">
             <mxGeometry x="243.25" y="160" width="180" height="180" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1535" value="Draft ideas" style="rounded=1;fillColor=#627851;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="110" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1536" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="B5k6kKCXbSGa-vjqhAyi-1535" source="0NB-BDC3hGzu6wAWVmnP-1535">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1125" y="186" as="sourcePoint" />
+            <mxPoint x="177.06" y="-170.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1537" value="&lt;p&gt;A game (can be VR, more fun hehe) that allows the player to be a student (seems fitting) that uses AI generated content a lot in their studies and related decision making. It’s a scenario-based game, very short and straightforward with limited options and interactions, all amid to educate about the problems that comes with overreliance on AI. Say the player is a given a task, to write a paper. The player is given options like using ChatGPT to generate some of the content, and then an option of manually checking the content (which takes time, maybe requires using credits on the game) or just using the content as it is (quicker and requires no credits), with the risk of facing consequences.&lt;/p&gt;&lt;p&gt;This could be in a workplace environment instead, like a decision-making scenario, that would be more stressful? Also emphasis the seriousness of this. ALSO, lots of real life scenarios to recreate? (research some stories) + There is some in my reading log&lt;/p&gt;&lt;p&gt;There could be a part of the game that explores how these decisions were made by the AI to help players understand how all of this work. (See game: Survival of the Best Fit)&lt;/p&gt;&lt;p&gt;This could be a very quick educational game OR a mass multiplayer game online that kind of similar to Roblox and Identity V, where players are given roles to compete with each other.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Can be made using Unity  :)))))))))&lt;/strong&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#51852A;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-250" width="590" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1538" value="&lt;p&gt;This is a web-toy or a plugin, basically something that mimics chatGPT, but deliberately misinform the user to test their reliance on the information generated, similar to that thing from last year where they deliberately underline correct words to test the typer on their spelling confidence. It could be a complex system that gives the use the freedom to search whatever, or a very simple gamified experience, where user is a given a task: say to search for a specific information, and then options with consequences on what to do with that information (double-check online themselves, use it as it is, ask more questions, ask the AI to include resources etc)&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;So instead of a game, it will be like a web experience (simulation).&lt;/p&gt;" style="rounded=1;fillColor=#51852A;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-470" width="553" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1539" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.407;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B5k6kKCXbSGa-vjqhAyi-1535" target="B5k6kKCXbSGa-vjqhAyi-1537">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1154" y="180" as="sourcePoint" />
+            <mxPoint x="1179" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B5k6kKCXbSGa-vjqhAyi-1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#32E23D;html=1;shadow=0;fillColor=#00FF00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B5k6kKCXbSGa-vjqhAyi-1535" target="B5k6kKCXbSGa-vjqhAyi-1538">
+          <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
+            <mxPoint x="1113" y="145" as="sourcePoint" />
+            <mxPoint x="1166" y="113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
