@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T10:36:03.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124 Version/11.1.1 Safari/605.1.15" etag="nymSJBCZ4B8ivrAPQ32j" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:19:33.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NYaGYkqCGX5gUOm2c8hN" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -309,21 +309,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m9aiWGmsmbNTqH3VZUoq" name="Page-2">
-    <mxGraphModel dx="1732" dy="1182" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-1" value="Legal Case Research" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-1" value="Legal Case Research" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-232" y="-308" width="262" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-2" value="corporate decision-making task &amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-2" value="corporate decision-making task &amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="166" y="-308" width="262" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-3" value="Medical Diagnosis Task" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-3" value="Medical Diagnosis Task" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="442" y="-313" width="262" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-4" value="Journalist scandal investigation &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-4" value="Journalist scandal investigation &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="749" y="-313" width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-2" value="&lt;ol&gt;&lt;li&gt;Landing page to explain the game to the player&lt;/li&gt;&lt;li&gt;Desktop interface landing:&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Email App - receive tasks&lt;/li&gt;&lt;li&gt;Writing Notes -&amp;nbsp; write docs&lt;/li&gt;&lt;li&gt;Engine Search - guided steps (clicks) - that takes time (points)&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Chatbot window - Actual AI?&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Email notifications&amp;nbsp;&lt;/li&gt;&lt;li&gt;Choosing how to complete the task&lt;/li&gt;&lt;li&gt;&amp;nbsp;First attempt works&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-399" y="-207" width="424" height="424" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
