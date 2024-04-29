@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T22:50:09.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yREkHyKPcWkZ_arn48TJ" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:54:37.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ocGZteTJ3xMlhECdAufz" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -328,11 +328,41 @@
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-5" value="Desktop environment" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="18" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-7" target="9HWQK3U4h9nPhAmrZ2DM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-7" value="Email notification pop up" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-9" value="&lt;ol style=&quot;text-align: left; line-height: 160%;&quot;&gt;&lt;li&gt;Landing page to explain the game to the player&lt;/li&gt;&lt;li&gt;Desktop interface landing:&amp;nbsp;&lt;/li&gt;&lt;ol style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;Email App - receive tasks&lt;/li&gt;&lt;li&gt;Writing Notes -&amp;nbsp; write docs&lt;/li&gt;&lt;li&gt;Engine Search - guided steps (clicks) - that takes time (points)&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Chatbot window - Actual AI?&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Email notifications&amp;nbsp;&lt;/li&gt;&lt;li&gt;Choosing how to complete the task&lt;/li&gt;&lt;li&gt;First attempt works as it is --&amp;gt; Engine search/ AI generated --&amp;gt; Works!&lt;/li&gt;&lt;li&gt;Second attempt fails as it is --&amp;gt; Needs to be quick so only option is AI --&amp;gt;&amp;nbsp; False!&lt;/li&gt;&lt;li&gt;Player made to investigate what went wrong (to understand how this works) --&amp;gt; Engine search --&amp;gt; AI hallucination &amp;amp; accuracy &amp;amp; data bias&lt;/li&gt;&lt;li&gt;Sharing articles &amp;amp; stuff to educate player about AI overreliance OR showing the cases or real-life AI disasters&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;strokeColor=#9933FF;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-354" y="-196" width="469" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-14" target="9HWQK3U4h9nPhAmrZ2DM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-14" value="Player receives a task to complete from employer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="18" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-16" target="9HWQK3U4h9nPhAmrZ2DM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-16" value="Use search engine OR AI chatbot" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-37" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-20" target="9HWQK3U4h9nPhAmrZ2DM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-20" value="Search engine" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="-144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-22" target="9HWQK3U4h9nPhAmrZ2DM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-22" value="Using up credits (time)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="-246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-25" value="Accuracy of information" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="-358" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
