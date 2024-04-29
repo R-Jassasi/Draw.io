@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T22:45:13.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FObOC4BrCqwX1qGqKX83" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:46:29.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JblXoXg0QVDWCpQs5XAQ" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -334,8 +334,14 @@
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-4" value="Landing page explaining how to play" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="-2" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-5" target="9HWQK3U4h9nPhAmrZ2DM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-5" value="Desktop environment" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-7" value="Email notification pop up" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="18" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
