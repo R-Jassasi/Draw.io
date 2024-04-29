@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T23:04:46.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fjjOLVs99DwSYuVHXB_G" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T23:05:29.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2WmUNFVWrtWNTwEo5iIP" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -394,17 +394,23 @@
         <mxCell id="fVYJBeXdEolwor0CqN0l-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-19" target="fVYJBeXdEolwor0CqN0l-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVYJBeXdEolwor0CqN0l-19" value="Player receives a second task&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fVYJBeXdEolwor0CqN0l-19" value="Task completed successfully" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1303" y="18" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fVYJBeXdEolwor0CqN0l-26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-22" target="fVYJBeXdEolwor0CqN0l-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fVYJBeXdEolwor0CqN0l-22" value="Player is required to be quick - has not option but to use AI" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fVYJBeXdEolwor0CqN0l-22" value="Player receives a second task&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1469" y="18" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fVYJBeXdEolwor0CqN0l-25" value="AI generated convincing content and player doesn&#39;t have a choice to double check (false info)" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fVYJBeXdEolwor0CqN0l-31" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-25" target="fVYJBeXdEolwor0CqN0l-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-25" value="Player is required to be quick - has not option but to use AI" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1646" y="18" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-30" value="AI generated convincing content and player doesn&#39;t have a choice to double check (false info)" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1851" y="18" width="158" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
