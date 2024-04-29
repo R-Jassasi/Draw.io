@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T10:33:10.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124 Version/11.1.1 Safari/605.1.15" etag="gWbPlFX6Z5BfM7vi7q5m" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T10:36:03.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/124 Version/11.1.1 Safari/605.1.15" etag="nymSJBCZ4B8ivrAPQ32j" version="24.2.8" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -314,7 +314,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QawvuyIwuWVMk_6p0Ohq-1" value="Legal Case Research" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-243" y="-339" width="262" height="30" as="geometry" />
+          <mxGeometry x="-232" y="-308" width="262" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-2" value="corporate decision-making task &amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="166" y="-308" width="262" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-3" value="Medical Diagnosis Task" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="442" y="-313" width="262" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-4" value="Journalist scandal investigation &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="749" y="-313" width="262" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
