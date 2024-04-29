@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T22:46:29.683Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JblXoXg0QVDWCpQs5XAQ" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T22:50:09.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yREkHyKPcWkZ_arn48TJ" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -309,24 +309,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m9aiWGmsmbNTqH3VZUoq" name="Page-2">
-    <mxGraphModel dx="1432" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1192" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-1" value="Legal Case Research" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-232" y="-308" width="262" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-2" value="corporate decision-making task &amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="166" y="-308" width="262" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-3" value="Medical Diagnosis Task" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="442" y="-313" width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QawvuyIwuWVMk_6p0Ohq-4" value="Journalist scandal investigation &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="749" y="-313" width="262" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-2" value="&lt;ol&gt;&lt;li&gt;Landing page to explain the game to the player&lt;/li&gt;&lt;li&gt;Desktop interface landing:&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Email App - receive tasks&lt;/li&gt;&lt;li&gt;Writing Notes -&amp;nbsp; write docs&lt;/li&gt;&lt;li&gt;Engine Search - guided steps (clicks) - that takes time (points)&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Chatbot window - Actual AI?&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Email notifications&amp;nbsp;&lt;/li&gt;&lt;li&gt;Choosing how to complete the task&lt;/li&gt;&lt;li&gt;First attempt works as it is --&amp;gt; Engine search/ AI generated --&amp;gt; Works!&lt;/li&gt;&lt;li&gt;Second attempt fails as it is --&amp;gt; Needs to be quick so only option is AI --&amp;gt;&amp;nbsp; False!&lt;/li&gt;&lt;li&gt;Player made to investigate what went wrong (to understand how this works) --&amp;gt; Engine search --&amp;gt; AI hallucination &amp;amp; accuracy &amp;amp; data bias&lt;/li&gt;&lt;li&gt;Sharing articles &amp;amp; stuff to educate player about AI overreliance OR showing the cases or real-life AI disasters&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-399" y="-207" width="494" height="494" as="geometry" />
+        <mxCell id="QawvuyIwuWVMk_6p0Ohq-1" value="Topic scenarios:&amp;nbsp;&lt;div&gt;- Legal Case Research&lt;/div&gt;&lt;div&gt;- C&lt;span style=&quot;background-color: initial;&quot;&gt;orporate decision-making task&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Medical Diagnosis Task&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Journalist scandal investigation&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-346" y="-375" width="262" height="147" as="geometry" />
         </mxCell>
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9HWQK3U4h9nPhAmrZ2DM-4" target="9HWQK3U4h9nPhAmrZ2DM-5">
           <mxGeometry relative="1" as="geometry" />
@@ -342,6 +330,9 @@
         </mxCell>
         <mxCell id="9HWQK3U4h9nPhAmrZ2DM-7" value="Email notification pop up" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9HWQK3U4h9nPhAmrZ2DM-9" value="&lt;ol style=&quot;text-align: left; line-height: 160%;&quot;&gt;&lt;li&gt;Landing page to explain the game to the player&lt;/li&gt;&lt;li&gt;Desktop interface landing:&amp;nbsp;&lt;/li&gt;&lt;ol style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;Email App - receive tasks&lt;/li&gt;&lt;li&gt;Writing Notes -&amp;nbsp; write docs&lt;/li&gt;&lt;li&gt;Engine Search - guided steps (clicks) - that takes time (points)&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Chatbot window - Actual AI?&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Email notifications&amp;nbsp;&lt;/li&gt;&lt;li&gt;Choosing how to complete the task&lt;/li&gt;&lt;li&gt;First attempt works as it is --&amp;gt; Engine search/ AI generated --&amp;gt; Works!&lt;/li&gt;&lt;li&gt;Second attempt fails as it is --&amp;gt; Needs to be quick so only option is AI --&amp;gt;&amp;nbsp; False!&lt;/li&gt;&lt;li&gt;Player made to investigate what went wrong (to understand how this works) --&amp;gt; Engine search --&amp;gt; AI hallucination &amp;amp; accuracy &amp;amp; data bias&lt;/li&gt;&lt;li&gt;Sharing articles &amp;amp; stuff to educate player about AI overreliance OR showing the cases or real-life AI disasters&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;strokeColor=#9933FF;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-354" y="-196" width="469" height="352" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
