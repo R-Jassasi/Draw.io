@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T23:28:28.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="phJn3swaPXvCOWDMctfF" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-29T23:30:52.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iEMPUgTC3W3oaRV_eIp6" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2501" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m9aiWGmsmbNTqH3VZUoq" name="Page-2">
-    <mxGraphModel dx="1531" dy="1477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1192" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,10 +484,8 @@
         <mxCell id="fVYJBeXdEolwor0CqN0l-114" value="Player realises sources don&#39;t exist (fake)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2533" y="18.00428571428578" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fVYJBeXdEolwor0CqN0l-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-115">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2933" y="48.00428571428597" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-115" target="fVYJBeXdEolwor0CqN0l-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fVYJBeXdEolwor0CqN0l-115" value="Learning about AI hallucinations &amp;amp; data accuracy" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2733" y="18.00428571428578" width="120" height="60" as="geometry" />
@@ -500,6 +498,18 @@
         </mxCell>
         <mxCell id="fVYJBeXdEolwor0CqN0l-121" value="&lt;h1&gt;Topic scenario suggestions using ChatGPT&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="-385" y="913" width="580" height="41.79" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="fVYJBeXdEolwor0CqN0l-122" target="fVYJBeXdEolwor0CqN0l-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-122" value="Consequences from actions (getting fired)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2933" y="18.00428571428578" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-124" value="Learning more about how AI works through search engine" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3133" y="18.00428571428578" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVYJBeXdEolwor0CqN0l-126" value="A decision to make? &quot;Let&#39;s search how AI actually works...&quot; OR &quot;Let&#39;s apply for a job that isn&#39;t too frantic about using AI.. meh&quot;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="3018" y="-138" width="231" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
