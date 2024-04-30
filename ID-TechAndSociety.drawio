@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T00:05:22.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y1B3V4TANsCDO98lh_mm" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T00:06:59.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9fBlftmtpZHuQg-BPizB" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="5129" dy="4597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -517,7 +517,7 @@
         <mxCell id="-MCKwx4H1ALKXHvgoad--2" value="&lt;h3&gt;&lt;font color=&quot;#000099&quot;&gt;Add some notification and emails that are not as important but to make the experience more immersive&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="331" y="-506" width="219" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="-MCKwx4H1ALKXHvgoad--3" value="&lt;h3&gt;&lt;font color=&quot;#000099&quot;&gt;Add some notification and emails that are not as important but to make the experience more immersive&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="-MCKwx4H1ALKXHvgoad--3" value="&lt;h3&gt;&lt;font color=&quot;#000099&quot;&gt;Design the time credit system and see if side distractions (like opening a cat video on browser or checking none important emails from friends and scams) affect the time credit. And how to present this in the flowchart an hi-fi prototype&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="564" y="-499" width="219" height="192" as="geometry" />
         </mxCell>
       </root>
