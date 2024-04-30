@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T23:35:02.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WBPOLpokZWlebDh8wPSQ" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-30T00:05:22.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y1B3V4TANsCDO98lh_mm" version="24.3.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3809" dy="3340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5129" dy="4597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m9aiWGmsmbNTqH3VZUoq" name="Page-2">
-    <mxGraphModel dx="1192" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="2057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,6 +510,15 @@
         </mxCell>
         <mxCell id="fVYJBeXdEolwor0CqN0l-126" value="A decision to make? &quot;Let&#39;s search how AI actually works...&quot; OR &quot;Let&#39;s apply for a job that isn&#39;t too frantic about using AI.. meh&quot;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="3018" y="-138" width="231" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="-MCKwx4H1ALKXHvgoad--1" value="&lt;h3&gt;&lt;font color=&quot;#ff0000&quot;&gt;Add scenario, details and content of each email and task&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-493" width="219" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="-MCKwx4H1ALKXHvgoad--2" value="&lt;h3&gt;&lt;font color=&quot;#000099&quot;&gt;Add some notification and emails that are not as important but to make the experience more immersive&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="331" y="-506" width="219" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="-MCKwx4H1ALKXHvgoad--3" value="&lt;h3&gt;&lt;font color=&quot;#000099&quot;&gt;Add some notification and emails that are not as important but to make the experience more immersive&lt;/font&gt;&lt;/h3&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="564" y="-499" width="219" height="192" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
