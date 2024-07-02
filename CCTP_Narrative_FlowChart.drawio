@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T18:45:36.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IVQBShq_d9oxju8WyAIf" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T18:49:02.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Jm1KfmTotXiZ70Ohw-M2" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2336" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,14 +28,23 @@
         <mxCell id="FQBBE40vLdjEcZgH7EDm-7" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-810" y="45" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FQBBE40vLdjEcZgH7EDm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FQBBE40vLdjEcZgH7EDm-8" target="FQBBE40vLdjEcZgH7EDm-9">
+        <mxCell id="FQBBE40vLdjEcZgH7EDm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FQBBE40vLdjEcZgH7EDm-8" target="FQBBE40vLdjEcZgH7EDm-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FQBBE40vLdjEcZgH7EDm-8" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="320" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FQBBE40vLdjEcZgH7EDm-9" value="Opening scene" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-450" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="FQBBE40vLdjEcZgH7EDm-12" value="Details" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-810" y="170" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBBE40vLdjEcZgH7EDm-13" value="Opening scene" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="342.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBBE40vLdjEcZgH7EDm-15" value="Player is in the house, his mother asks him to go get something from the market." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="410" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBBE40vLdjEcZgH7EDm-17" value="&amp;nbsp;A conversation happens about their financial struggles to afford food and mentions that the father is working in a foreign country" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="520" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
