@@ -601,47 +601,32 @@
             <mxPoint x="343.5" y="39" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1490" value="Unreal Engine 5" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="623.5" y="1006.5" width="120" height="40" as="geometry" />
+        <mxCell id="1490" value="Unreal Engine 5" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1491" value="3D Open Map" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="488.5" y="1011.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="472" y="1011.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1492" value="Dialogue System" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="423.5" y="1066.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="358.5" y="1066.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1493" value="Meta Human Characters" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1126.5" width="168.5" height="40" as="geometry" />
+          <mxGeometry x="287.75" y="1171.5" width="168.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1494" value="Using AI NPCs?" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="1181.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="302" y="1251.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1495" value="Realistic environment" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="363.5" y="1246.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="335" y="1331.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1496" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="398.5" y="1309" width="120" height="40" as="geometry" />
+        <mxCell id="1496" value="Keyboard/controller" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="465" y="1379" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1497" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="468.5" y="1359" width="120" height="40" as="geometry" />
+        <mxCell id="1497" value="Narrative" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1379" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1498" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="578.5" y="1414" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1499" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="703.5" y="1349" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1500" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="763.5" y="1281.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1501" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="783.5" y="1186" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1502" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1501" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="188.5" y="151.5" as="sourcePoint" />
-            <mxPoint x="288.5" y="51.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1498" value="Quests to aid exploration" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1261.5" width="161.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1503" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1490" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
@@ -692,18 +677,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1511" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1498" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="188.5" y="151.5" as="sourcePoint" />
-            <mxPoint x="288.5" y="51.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1512" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1499" edge="1">
-          <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
-            <mxPoint x="188.5" y="151.5" as="sourcePoint" />
-            <mxPoint x="288.5" y="51.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1513" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1500" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
             <mxPoint x="188.5" y="151.5" as="sourcePoint" />
             <mxPoint x="288.5" y="51.5" as="targetPoint" />
